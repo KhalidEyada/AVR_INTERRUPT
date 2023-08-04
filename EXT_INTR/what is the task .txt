@@ -1,0 +1,9 @@
+1- integrate your dio
+
+2- fill the missing code lines in MCAL/GIE/GIE_program.c
+
+3- fill the missing code lines in MCAL/EXT/EXTINT_program.c
+
+4- fill main function with your application
+
+5- test your code on simulation
